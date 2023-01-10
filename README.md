@@ -1,7 +1,6 @@
 - 👋 Olá! Sou Hian Ferreira!
-- 👀 Estou interessado em dar meu primeiro passo como profissional na área de web dev.
-- 🌱 Atualmente estou aprendendo JavaScript e buscando uma linguagem para me especializar.
-- 💞️ Estou procurando me aperfeiçoar em alguma linguagem de programação específica. 
+- 👀 Estou interessado em trabalhar como desenvolvedor front-end
+- 🌱 Atualmente estou afiando minhas habilidades em JavaScript
 - 📫 Você pode me contatar através do email contatoferreiramartins@gmail.com
 
 <!---
