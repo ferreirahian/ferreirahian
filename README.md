@@ -1,5 +1,4 @@
 - 👋 Olá! Sou Hian Ferreira!
-- 👀 Estou interessado em trabalhar como desenvolvedor front-end
 - 🌱 Atualmente estou afiando minhas habilidades em JavaScript
 - 📫 Você pode me contatar através do email contatoferreiramartins@gmail.com
 
